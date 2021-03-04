@@ -1,0 +1,19 @@
+6
+12 Ahmed Suliman 2
+ECCE230 0
+ECCE356 0
+71 Abdulrahim Naser 2
+ECCE436 0
+ECCE430 0
+94 Huda Bassam 3
+ECCE356 3
+ECCE436 0
+ECCE430 0
+26 Amna Alzabi 1
+ENGR112 0
+52 Mohammed Almansoori 3
+ECCE356 0
+ECCE430 0
+ECCE230 0
+80 Noor Alantali 1
+ENGR112 0

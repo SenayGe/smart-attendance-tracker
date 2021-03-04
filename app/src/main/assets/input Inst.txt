@@ -1,0 +1,9 @@
+3
+Dr. Hadi Otrok 2
+ECCE230 OOP 2
+ECCE356 Networks 3
+Dr. Rahbeb Mizouni 2
+ENGR112 C++ 2
+ECCE436 Testing 2
+Ms. Maha Kadadha 1
+ECCE430 Security 3
